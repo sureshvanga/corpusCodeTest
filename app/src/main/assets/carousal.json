@@ -1,0 +1,339 @@
+{
+	"responseStatus": {
+		"statusCode": "200",
+		"statusMessage": "Success"
+	},
+	"content": [
+		{
+			"title": "Home Ads",
+			"command": "CAROUSEL_GROUP",
+			"content": [
+				{
+					"id": 86,
+					"title": "GFGNL-Bigbannerad1",
+					"stbCarouselImage": "",
+					"otherDeviceCarouselImage": "",
+					"mobileCarouselImage": "http://server.aiohome.in:8080/content02//DESH-GFGNL_116/assets/CAROUSEL_IMAGES/619484915-116.jpg",
+					"description": "",
+					"shareUrl": "",
+					"kind": "URL",
+					"contentType": "",
+					"content": "-1",
+					"onScreenAction": "-1",
+					"externalLink": "",
+					"franchiseId": 116
+				},
+				{
+					"id": 87,
+					"title": "GFGNL-Bigbannerad2",
+					"stbCarouselImage": "",
+					"otherDeviceCarouselImage": "",
+					"mobileCarouselImage": "http://server.aiohome.in:8080/content02//DESH-GFGNL_116/assets/CAROUSEL_IMAGES/875839758-116.jpg",
+					"description": "",
+					"shareUrl": "https://gujaratindia.gov.in/",
+					"kind": "URL",
+					"contentType": "",
+					"content": "-1",
+					"onScreenAction": "LearnMore",
+					"externalLink": "https://gujaratindia.gov.in/",
+					"franchiseId": 116
+				},
+				{
+					"id": 88,
+					"title": "GFGNL-Bigbannerad3",
+					"stbCarouselImage": "",
+					"otherDeviceCarouselImage": "",
+					"mobileCarouselImage": "http://server.aiohome.in:8080/content02//DESH-GFGNL_116/assets/CAROUSEL_IMAGES/452807640-116.jpg",
+					"description": "",
+					"shareUrl": "https://www.digitalgujarat.gov.in/",
+					"kind": "URL",
+					"contentType": "",
+					"content": "-1",
+					"onScreenAction": "Purchase",
+					"externalLink": "https://www.digitalgujarat.gov.in/",
+					"franchiseId": 116
+				},
+				{
+					"id": 94,
+					"title": "GFGNL-Bigbannerad4",
+					"stbCarouselImage": "",
+					"otherDeviceCarouselImage": "",
+					"mobileCarouselImage": "http://server.aiohome.in:8080/content02//DESH-GFGNL_116/assets/CAROUSEL_IMAGES/201574271-116.jpg",
+					"description": "",
+					"shareUrl": "",
+					"kind": "URL",
+					"contentType": "",
+					"content": "-1",
+					"onScreenAction": "-1",
+					"externalLink": "",
+					"franchiseId": 116
+				}
+			],
+			"contentType": "CAROUSEL_AD",
+			"bigBannerAdValue": "",
+			"isBigBannerAdEnabled": false,
+			"isSubscriberSpecific": false,
+			"displayNumberSeries": false,
+			"adImageType": "TopBanner",
+			"displayOrder": 1
+		},
+		{
+			"title": "Entertainment",
+			"command": "MANUAL_SEARCH",
+			"content": [
+				{
+					"id": 13637
+				},
+				{
+					"id": 13630
+				},
+				{
+					"id": 13635
+				},
+				{
+					"id": 13655
+				},
+				{
+					"id": 13658
+				}
+			],
+			"contentType": "LTV",
+			"bigBannerAdValue": "",
+			"isBigBannerAdEnabled": false,
+			"iconType": "LANDSCAPE_ICON_2",
+			"isSubscriberSpecific": false,
+			"displayNumberSeries": false,
+			"displayOrder": 2
+		},
+		{
+			"title": "Channels",
+			"command": "MANUAL_SEARCH",
+			"content": [
+				{
+					"id": 13562
+				},
+				{
+					"id": 13558
+				},
+				{
+					"id": 13557
+				},
+				{
+					"id": 13559
+				},
+				{
+					"id": 13637
+				},
+				{
+					"id": 13630
+				},
+				{
+					"id": 13638
+				},
+				{
+					"id": 13649
+				},
+				{
+					"id": 13648
+				}
+			],
+			"contentType": "LTV",
+			"bigBannerAdValue": "",
+			"isBigBannerAdEnabled": false,
+			"iconType": "LANDSCAPE_ICON_2",
+			"isSubscriberSpecific": false,
+			"displayNumberSeries": false,
+			"displayOrder": 3
+		},
+		{
+			"title": "Midrowad1",
+			"command": "CAROUSEL_GROUP",
+			"content": [
+				{
+					"id": 91,
+					"title": "GFGNL-Midrowad4",
+					"stbCarouselImage": "",
+					"otherDeviceCarouselImage": "",
+					"mobileCarouselImage": "http://server.aiohome.in:8080/content02//DESH-GFGNL_116/assets/CAROUSEL_IMAGES/407592684-116.jpg",
+					"description": "",
+					"shareUrl": "",
+					"kind": "URL",
+					"contentType": "",
+					"content": "-1",
+					"onScreenAction": "-1",
+					"externalLink": "",
+					"franchiseId": 116
+				}
+			],
+			"contentType": "CAROUSEL_AD",
+			"bigBannerAdValue": "",
+			"isBigBannerAdEnabled": false,
+			"isSubscriberSpecific": false,
+			"displayNumberSeries": false,
+			"adImageType": "MidRowSmallBanner",
+			"displayOrder": 4
+		},
+		{
+			"title": "OTT Apps",
+			"command": "MANUAL_SEARCH",
+			"content": [
+				{
+					"id": 11
+				},
+				{
+					"id": 13
+				},
+				{
+					"id": 9
+				},
+				{
+					"id": 6
+				}
+			],
+			"contentType": "APPSTORE",
+			"bigBannerAdValue": "",
+			"isBigBannerAdEnabled": false,
+			"iconType": "LANDSCAPE_ICON",
+			"isSubscriberSpecific": false,
+			"displayNumberSeries": false,
+			"displayOrder": 5
+		},
+		{
+			"title": "Music",
+			"command": "MANUAL_SEARCH",
+			"content": [
+				{
+					"id": 13560
+				},
+				{
+					"id": 13561
+				},
+				{
+					"id": 13562
+				},
+				{
+					"id": 13631
+				},
+				{
+					"id": 13633
+				}
+			],
+			"contentType": "LTV",
+			"bigBannerAdValue": "",
+			"isBigBannerAdEnabled": false,
+			"iconType": "LANDSCAPE_ICON_2",
+			"isSubscriberSpecific": false,
+			"displayNumberSeries": false,
+			"displayOrder": 5
+		},
+		{
+			"title": "Midrowad2",
+			"command": "CAROUSEL_GROUP",
+			"content": [
+				{
+					"id": 89,
+					"title": "GFGNL-Midrowad2",
+					"stbCarouselImage": "",
+					"otherDeviceCarouselImage": "",
+					"mobileCarouselImage": "http://server.aiohome.in:8080/content02//DESH-GFGNL_116/assets/CAROUSEL_IMAGES/984545945-116.jpg",
+					"description": "",
+					"shareUrl": "",
+					"kind": "URL",
+					"contentType": "",
+					"content": "-1",
+					"onScreenAction": "-1",
+					"externalLink": "",
+					"franchiseId": 116
+				}
+			],
+			"contentType": "CAROUSEL_AD",
+			"bigBannerAdValue": "",
+			"isBigBannerAdEnabled": false,
+			"isSubscriberSpecific": false,
+			"displayNumberSeries": false,
+			"adImageType": "MidRowSmallBanner",
+			"displayOrder": 6
+		},
+		{
+			"title": "Movies",
+			"command": "MANUAL_SEARCH",
+			"content": [
+				{
+					"id": 12540
+				},
+				{
+					"id": 12545
+				},
+				{
+					"id": 12541
+				},
+				{
+					"id": 12548
+				},
+				{
+					"id": 12542
+				}
+			],
+			"contentType": "VOD",
+			"bigBannerAdValue": "",
+			"isBigBannerAdEnabled": false,
+			"iconType": "PORTRAIT_ICON_3",
+			"isSubscriberSpecific": false,
+			"displayNumberSeries": false,
+			"displayOrder": 7
+		},
+		{
+			"title": "midrowad3",
+			"command": "CAROUSEL_GROUP",
+			"content": [
+				{
+					"id": 92,
+					"title": "GFGNL-Midrowad5",
+					"stbCarouselImage": "",
+					"otherDeviceCarouselImage": "",
+					"mobileCarouselImage": "http://server.aiohome.in:8080/content02//DESH-GFGNL_116/assets/CAROUSEL_IMAGES/176773291-116.jpg",
+					"description": "",
+					"shareUrl": "",
+					"kind": "URL",
+					"contentType": "",
+					"content": "-1",
+					"onScreenAction": "-1",
+					"externalLink": "",
+					"franchiseId": 116
+				}
+			],
+			"contentType": "CAROUSEL_AD",
+			"bigBannerAdValue": "",
+			"isBigBannerAdEnabled": false,
+			"isSubscriberSpecific": false,
+			"displayNumberSeries": false,
+			"adImageType": "MidRowSmallBanner",
+			"displayOrder": 8
+		},
+		{
+			"title": "Action Moviess",
+			"command": "MANUAL_SEARCH",
+			"content": [
+				{
+					"id": 12544
+				},
+				{
+					"id": 12543
+				},
+				{
+					"id": 12548
+				},
+				{
+					"id": 12545
+				}
+			],
+			"contentType": "VOD",
+			"bigBannerAdValue": "",
+			"isBigBannerAdEnabled": false,
+			"iconType": "PORTRAIT_ICON_3",
+			"isSubscriberSpecific": false,
+			"displayNumberSeries": false,
+			"displayOrder": 9
+		}
+	]
+}
